@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# EF Core local database
+*.mdf
+*.ldf
+
+# NuGet
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db

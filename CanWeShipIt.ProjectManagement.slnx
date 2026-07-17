@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/docs/Episode001/">
+    <File Path="Lessons.md" />
+    <File Path="Prompt.md" />
+    <File Path="Review.md" />
+  </Folder>
+  <Folder Name="/docs/Episode001/AI-Version/" />
+  <Folder Name="/docs/Episode001/Production-Version/" />
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Src/">
+    <Project Path="CanWeShipIt.API/CanWeShipIt.API.csproj" />
+    <Project Path="CanWeShipIt.Application/CanWeShipIt.Application.csproj" />
+    <Project Path="CanWeShipIt.Domain/CanWeShipIt.Domain.csproj" />
+    <Project Path="CanWeShipIt.Infrastructure/CanWeShipIt.Infrastructure.csproj" />
+  </Folder>
+</Solution>
